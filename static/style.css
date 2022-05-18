@@ -1,0 +1,18 @@
+body {
+    background-color: white;
+    font-family: sans-serif;
+    margin: 10em;
+    margin-top: 4em;
+}
+
+a {
+    color: #008cff;
+}
+
+a:visited {
+    color: #80f;
+}
+
+a:active {
+    color: #006cdd;
+}
